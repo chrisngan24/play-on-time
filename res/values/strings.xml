@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Play</string>
+    <string name="configuration_text">Play on Time</string>
+    <string name="extension_name">Play on Time</string>
+    <string name="preference_key_read_me">Read me</string>
+    <string name="preference_option_read_me">Read me</string>
+    <string name="preference_activity_title">Settings</string>
+
+</resources>

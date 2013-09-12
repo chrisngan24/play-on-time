@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_height="128px"
+        android:layout_width="128px"
+        xmlns:android="http://schemas.android.com/apk/res/android">-
+
+    <LinearLayout
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent"
+            android:orientation="vertical">
+
+        <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="0"
+                android:textSize="40px"
+                android:layout_gravity="center"
+                android:id="@+id/textBPM"/>
+        <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="BPM"
+                android:textSize="30px"
+                android:layout_gravity="center"/>
+
+    </LinearLayout>
+</LinearLayout>
